@@ -17,27 +17,3 @@ Create a commit with these changes, and push it to `main`.
 A `config/master.key` file should be created in the process. Make sure you store
 the contents in Google Cloud Secret Manager.
 
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
